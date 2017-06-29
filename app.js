@@ -38,5 +38,3 @@ var readJson = fs.readFile(jsonFile, function(err, data) {
 module.exports = {
 	readJson: readJson
 }
-
-// module.exports
